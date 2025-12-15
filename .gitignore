@@ -1,1 +1,4 @@
 .ipynb_checkpoints/
+__pycache__/
+ofz_cache.json
+ofz_cache_parsed.json
